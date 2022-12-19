@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alexandregomezm
+- 👀 I’m interested in learn new stuff.
+- 🌱 I’m currently learning excel and python.
